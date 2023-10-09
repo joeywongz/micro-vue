@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "rollup": "~2.38.5"
+
+  }
+}
